@@ -1,0 +1,347 @@
+/*
+	@name intro_1
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900&display=swap');
+@font-face {
+			font-family: cyberfall;
+			src:url("font/Cyberfall.otf");
+			}
+/* Only edit this if you know what you are doing! */
+body { display: block; position: relative; margin: 0px; padding: 0px; width: 100%; min-height: 1; overflow:hidden; font-family:'Raleway', sans-serif; background:rgba(21,21,20,255);/*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+a{font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	color:#ffffff;
+	text-decoration: none;}
+#content-container { box-sizing: content-box; display: block; position: relative; width: 100%; height: 100%;   }
+
+
+#txt_BG_Baby_Groot {
+		opacity: 0.083;
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		left: 22px;
+		top: -10vh;
+		overflow: hidden;
+		width: 1935px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: 'Raleway', sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 65vh;
+		color: rgba(250,255,221,1);
+		letter-spacing: -0.5px;
+		line-height: 100%;
+		user-select:none;
+	}
+	#txt_BG_Baby_Groot1 {
+			opacity: 0.083;
+			filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+			position: absolute;
+			left: 22px;
+			top:45vh;
+			
+			overflow: hidden;
+			width: 1935px;
+			white-space: nowrap;
+			text-align: left;
+			font-family: 'Raleway', sans-serif;
+			font-style: normal;
+			font-weight: bold;
+			font-size: 65vh;
+			color: rgba(250,255,221,1);
+			letter-spacing: -0.5px;
+			line-height: 100%;
+			user-select:none;
+		}
+
+#txt_groot_bg {
+	opacity: 0.8;
+	top: 36vh;
+	left:calc(103vw - 180vh);
+	width: 180vh;
+	height: 36vh;
+}
+.selected_text{
+	color: #EF1814;
+}
+#menu________ {
+	top: 45px;
+	left: 273px;
+	width: 716px;
+	height: 39px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	color:#ffffff;
+	font-weight: 600;
+}
+
+#start_ {
+	top: 11px;
+	left: 0px;
+	width: 55px;
+	height: 19px;
+	
+}
+
+
+#intro {
+	top: 11px;
+	left: 107px;
+	width: 51px;
+	height: 19px;
+	
+}
+
+
+#game {
+	top: 11px;
+	left: 210px;
+	width: 47px;
+	height: 19px;
+	
+}
+
+
+#project {
+	top: 11px;
+	left: 309px;
+	width: 71px;
+	height: 19px;
+	
+}
+
+
+#contact {
+	top: 11px;
+	left: 432px;
+	width: 75px;
+	height: 19px;
+	
+}
+
+
+#____469 {
+	top: 0px;
+	left: 588px;
+	width: 128px;
+	height: 39px;
+}
+
+
+#blog {
+	top: 10px;
+	left: 634px;
+	width: 54px;
+	height: 22px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	text-align: left;
+	font-weight: 800;
+	color:#ffffff;
+}
+
+#___9 {
+	top: 33.720703125px;
+	left: 107px;
+	width: 98.38916015625px;
+	height: 61.779296875px;
+}
+#___4 {
+	top: 8px;
+	left: 26px;
+	width: 45.629638671875px;
+	height: 45.6962890625px;
+}
+
+#___5 {
+	top: 0px;
+	left: 0px;
+	width: 98.38916015625px;
+	height: 61.779296875px;
+}
+
+#____342 {
+	top: 0px;
+	left: 0px;
+	width: 98.38916015625px;
+	height: 61.779296875px;
+}
+
+
+#____2_ek1 {
+	top: 26px;
+	left: 44px;
+	width: 10.744262695312px;
+	height: 10.744201660156px;
+	-ms-border-radius: 5.37213134765625px / 5.37213134765625px;
+	-o-border-radius: 5.37213134765625px / 5.37213134765625px;
+	-moz-border-radius: 5.37213134765625px / 5.37213134765625px;
+	-webkit-border-radius: 5.37213134765625px / 5.37213134765625px;
+	border-radius: 5.37213134765625px / 5.37213134765625px;
+	background:rgba(255,255,255,255);
+}
+
+
+#____86 {
+	top: 83.5px;
+	left: 270px;
+	width: 511.5px;
+	height: 1px;
+}
+
+
+#underline {
+	top: 82.0361328125px;
+	left: 377px;
+	width: 54.568359375px;
+	height: 4px;
+}
+
+#___ {
+	top: 43vh;
+	/* left:0; */
+	right:30px;
+	/* margin: 0 auto; */
+	width: 60px;
+	height: 160px;
+	z-index:100;
+}
+
+#____10_ek1 {
+	top: 120px;
+	width: 50px;
+	height: 30px;
+}
+
+
+#____11_ek1 {
+	top: 0px;
+	width: 50px;
+	height: 30px;
+}
+.cass{
+	height:56px;
+	background-color: #FF5252;
+	font-family: cyberfall;
+	color: white;
+	margin: 0 auto;
+	font-size: 38px;
+	line-height: 56px;
+	padding-left: 5px;
+	padding-right: 5px;
+	}
+.dmsp{
+	left:125px;
+	height:48px;
+	border-top: 4px solid #FF5252;
+	border-bottom: 4px solid #FF5252;
+	font-family: cyberfall;
+	color: #FF5252;
+	margin: 0 auto;
+	font-size: 38px;
+	line-height: 46px;
+	padding-left: 5px;
+	padding-right: 5px;
+	}
+#_91 {
+	display: block;
+	top: 172px;
+	left: 107px;
+	width: 557px;
+	height: 121px;
+}
+#_92 {
+	display: none;
+	top: 172px;
+	left: 107px;
+	width: 557px;
+	height: 121px;
+	font-weight: 600;
+}
+#i_need_your_help_ {
+	top: 38px;
+	left: 101px;
+	width: 387px;
+	height: 55px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	text-align: left;
+	color:#ef1814;
+}
+#____37 {
+	top: 207px;
+	left: 107px;
+	width: 263px;
+	height: 263px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#scan_the_qr_code_by_your_mobile__get_the_hints_ {
+	top: 272px;
+	left: 400px;
+	width: 861px;
+	height: 102px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	text-align: left;
+	color:#ef1814;
+}
+#intro-3{
+	
+}
+#____35 {
+	top: 0px;
+	left: 0px;
+	width: 551px;
+	height: 115px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	border: 3px solid #ebe5e5;
+	background:rgba(255,255,255,0);
+}
+
+
+#notification_2 {
+	top: 36px;
+	left: 29px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#you_received_an_anonymous_notification_ {
+	top: 26px;
+	left: 105px;
+	width: 418px;
+	height: 92px;
+	overflow: hidden;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#ffffff;
+}
+#intro-video{
+	position: absolute;
+	top: 126px;
+	left: 273px;
+}
+
+
+/* Add your custom CSS here */

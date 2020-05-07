@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="247" height="51" viewBox="0 0 247 51">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #6d7f4b;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="btn_watch" data-name="btn watch" transform="translate(0.152 0.246)">
+    <g id="矩形_3" data-name="矩形 3" class="cls-1" transform="translate(-0.152 -0.246)">
+      <rect class="cls-5" width="247" height="51" rx="25.5"/>
+      <rect class="cls-6" x="2" y="2" width="243" height="47" rx="23.5"/>
+    </g>
+    <g id="组_88" data-name="组 88" transform="translate(67.036 19.754)">
+      <g id="组_2" data-name="组 2" transform="translate(0 0)">
+        <text id="WATCH_DOCUMENTATION" data-name="WATCH DOCUMENTATION" class="cls-2" transform="translate(74.812 11)"><tspan x="-87.941" y="0">WATCH DOCUMENTATION</tspan></text>
+      </g>
+    </g>
+    <g id="youtube" transform="translate(17.698 14.161)">
+      <path id="路径_82" data-name="路径 82" class="cls-3" d="M365.223,118.288c-.011-.33-.028-.659-.054-.99a7.252,7.252,0,0,0-1.186-4.115,4.523,4.523,0,0,0-3.175-1.3c-1.472-.167-2.949-.267-4.429-.323-3-.114-5.995-.048-8.991.019-1.54.034-3.079.068-4.614.19-1.885.15-3.824.426-4.7,2.31-.788,1.691-.69,3.837-.7,5.655-.009,1.631-.014,3.263.051,4.892.085,2.116.21,4.871,2.494,5.8a13.136,13.136,0,0,0,3.992.69c1.379.09,2.763.079,4.145.1,2.9.043,5.8-.057,8.693-.114a19.7,19.7,0,0,0,6-.72c1.662-.567,2.1-2.369,2.321-3.932a32.356,32.356,0,0,0,.164-4.691C365.232,120.6,365.263,119.442,365.223,118.288Z" transform="translate(-337.368 -111.494)"/>
+      <path id="路径_83" data-name="路径 83" class="cls-4" d="M483.19,185.495l-7.218-4.239v8.481Z" transform="translate(-464.859 -175.575)"/>
+    </g>
+  </g>
+</svg>

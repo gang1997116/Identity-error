@@ -1,0 +1,67 @@
+p{
+	margin: 0;
+}
+#GAME_NAME_DIGITAL_MEADIA_STUDI {
+		position: absolute;
+		left: 107px;
+		top: 240px;
+		overflow: visible;
+		width: 692px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: 'Raleway', sans-serif;
+		font-style: normal;
+		font-weight: 800;
+		font-size: 80px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.16px;
+	}
+	#EVERYTHING_HERE_GOES_AGAINST_Y {
+		position: absolute;
+		left: 107px;
+		top: 61vh;
+		overflow: visible;
+		width: 1043px;
+		white-space: nowrap;
+		line-height: 40px;
+		
+		text-align: left;
+		font-family: 'Raleway', sans-serif;
+		font-style: normal;
+		font-weight: semibold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.1px;
+	}
+#cassdmsp{
+	position: absolute;
+	left: 107px;
+	top: 170px;
+}
+#started{
+	position: absolute;
+	left: 107px;
+	top: 80vh;
+}
+#watch{
+	position: absolute;
+	left: 340px;
+	top: 81vh;
+}
+#underline{	
+		top: 82.0361328125px;
+		left: 270px;
+		width: 54.568359375px;
+		height: 4px;
+	
+}
+#selected-circle {
+   
+    top: -31px; 
+}
+#____2_ek2 {
+    top: -16px;
+}
+#_02 {
+    top: -43px;
+}
